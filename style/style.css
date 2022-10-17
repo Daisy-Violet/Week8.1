@@ -1,0 +1,10 @@
+.container-sm {
+    width: 55%;
+    margin: 0;
+}
+.row1 {
+    height: 40vh;
+}
+.row3, .row4 {
+    height: 20vh;
+}
